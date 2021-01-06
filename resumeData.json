@@ -32,97 +32,105 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Skilled in Full-Stack engineering.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"General Assembly",
+        "degree":"Software Engineering",
+        "graduated":"Jan 2020",
+        "description":"500+ credit hour course."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Middle Tennessee State University",
+        "degree":"Computer Information Systems",
+        "graduated":"N/A",
+        "description":"Completed 3 years of Information studies, Decided to part ways with school to focus on my love for programming."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"General Assembly",
+        "title":"Software Engineering Immersive",
+        "years":"Sept 2020 - Jan 2021",
+        "description":"Created 3 programming projects utilizing Javascript, HTML, CSS, Bootstrap, Express, MongoDB, React, Node.js, PostgreSQL, Python, JQuery, Django and Mongoose. Worked with full-stack opplications while creating a visually pleasing and smooth UX. Fully Remote course using Github, Zoom, and Slack."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Javascript",
+        "level":"100%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"100%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"100%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Python",
+        "level":"100%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"MongoDB",
+        "level":"100%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Express",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"AJAX",
+        "level":"100%"
+      },
+      {
+        "name":"Axios",
+        "level":"100%"
+      },
+      {
+        "name":"Node.js",
+        "level":"100%"
+      },
+      {
+        "name":"JQuery",
+        "level":"100%"
+      },
+      {
+        "name":"Agile/Scrum Methodologies",
+        "level":"100%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":""
+        "title":"Productive X",
+        "category":"(Fullstack) A Todo App to keep you your day PRODUCTIVE",
+        "image":"PRODUCTIVEX.jpg",
+        "url":"https://bahmbies.github.io/ProductiveX-client/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":""
+        "title":"Yumi Says",
+        "category":"Yumi Says is a dub of Simon Says a intergalactic game based on memory",
+        "image":"yumisayss.jpg",
+        "url":"https://bahmbies.github.io/Simon-Game/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":""
+        "title":"ReviewFlix",
+        "category":"(React-Based, Full-Stack App) Reviewflix - the one stop shop for film junkie's reviews on the latest and greatest.",
+        "image":"review-flix.jpg",
+        "url":"https://did-you-restart.github.io/reviewflix-client/#/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":""
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":""
+        "title":"Tic-Tac-2.0",
+        "category":"(Full-Stack App) Tic-Tac-2.0 a 80's themed classic",
+        "image":"tic-tac-2.0.jpg",
+        "url":"https://bahmbies.github.io/Tic-TAC-2.0/"
       }
     ]
   }
